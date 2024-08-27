@@ -22,7 +22,7 @@ The Road Accident Dashboard is an Excel-based project created to offer a detaile
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/road-accident-dashboard-excel.git
+    git clone https://github.com/Eunnylans/Road-Accident-Dashboard-EXCEL.git
     ```
 
 2. Open the Excel file (`Road Accident Data.xlsx`) to access the dashboard (check in master barnch ).
